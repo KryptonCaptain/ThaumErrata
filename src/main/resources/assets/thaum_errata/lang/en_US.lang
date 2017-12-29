@@ -1,0 +1,21 @@
+tc.research_category.ERRATA=Errata
+
+
+tc.research_name.ER.RUNIC.FIRE=Flaming Spikes
+tc.research_text.ER.RUNIC.FIRE=Infusion Enchantment
+tc.research_page.ER.RUNIC.FIRE=Much like the Thorns enchant, this will deliver a retaliating blow to your attacker, but will instead set them on fire.
+
+tc.research_name.ER.RUNIC.POISON=Poisonous Barbs
+tc.research_text.ER.RUNIC.POISON=Infusion Enchantment
+tc.research_page.ER.RUNIC.POISON=Much like the Thorns enchant, this will deliver a retaliating blow to your attacker, but will instead poison them for a short period.
+
+tc.research_name.ER.RUNIC.KNOCKBACK=Retaliatory Kick
+tc.research_text.ER.RUNIC.KNOCKBACK=Infusion Enchantment
+tc.research_page.ER.RUNIC.KNOCKBACK=Much like the Thorns enchant, this will deliver a retaliating blow to your attacker, but will instead send them reeling and knock them back from you.
+
+tc.research_name.ER.RUNIC.MAGIC=Magic Resistance
+tc.research_text.ER.RUNIC.MAGIC=Infusion Enchantment
+tc.research_page.ER.RUNIC.MAGIC=This enchant will provide you with a greater protection from magical attacks.
+
+
+

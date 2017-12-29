@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tErrata",
+  "name": "Thaumic Errata",
+  "description": "Compatibility tweaks for Thaumcraft addons and other mods",
+  "version": "${version}",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["KryptonCaptain"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
